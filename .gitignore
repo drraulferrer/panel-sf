@@ -1,0 +1,3 @@
+# Datos clínicos descifrados y artefactos locales de validación
+.decrypted-*
+.expected-decrypted.html
